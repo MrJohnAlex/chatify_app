@@ -1,0 +1,14 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "This is practice with MERN project for real time chat app",
+  "main": "index.js",
+  "scripts": {
+    "dev": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

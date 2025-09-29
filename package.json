@@ -4,7 +4,8 @@
   "description": "This is practice with MERN project for real time chat app",
   "main": "index.js",
   "scripts": {
-    "dev": ""
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm run prod --prefix backend"
   },
   "author": "",
   "license": "ISC",
